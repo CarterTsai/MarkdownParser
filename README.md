@@ -12,6 +12,8 @@ Make a markdown parser step by step.
 $> make test
 ```
 
+### Licensing
 
+MIT
 
 [1]: http://dukeland.hk/2012/03/29/a-simple-tutorial-of-writing-a-compiler-part-2-scanner-lexical-analysis-section-1/
